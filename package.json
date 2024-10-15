@@ -1,0 +1,22 @@
+{
+  "name": "subtle-dark",
+  "displayName": "Subtle Dark",
+  "description": "Subtle Dark - Provides perfect light, which doesn't harm your eyes",
+  "publisher": "omkarfrontend-dev",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Subtle Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Subtle Dark-color-theme.json"
+      }
+    ]
+  }
+}
